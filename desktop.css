@@ -1,4 +1,25 @@
 /* Media Query DESKTOP */
 @media screen and (min-width: 1280px) {
-  
+  body {
+    padding: 80px;
+  }
+
+  img {
+    width: 300px;
+    height: 300px;
+  }
+
+  h1 {
+    font-size: 48px;
+  }
+
+  p {
+    font-size: 24px;
+  }
+
+  button {
+    background-color: #54857B;
+    font-size: 32px;
+    max-width: 500px;
+  }
 }
